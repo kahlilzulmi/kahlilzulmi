@@ -2,7 +2,7 @@
 <h3 align="center">A Medical Technology Student building bridges to a healthier future with code, hardware, and robotics.</h3>
 
 <p align="center">
-  [Ice Bear](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjY0dmIzc3ptd3FmOGpiaHRjZTdoNTZvazNjM3Jjam1idnFxbXN5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uZlxaF59yuAiOmCdz9/giphy.gif)
+  ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjY0dmIzc3ptd3FmOGpiaHRjZTdoNTZvazNjM3Jjam1idnFxbXN5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uZlxaF59yuAiOmCdz9/giphy.gif)
 </p>
 
 ---
