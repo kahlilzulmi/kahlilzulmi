@@ -2,7 +2,7 @@
 <h3 align="center">A Medical Technology Student building bridges to a healthier future with code, hardware, and robotics.</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25rMGZocGRmMzd2M2ZtZjh3ZGRiZzQxbm93ZXZoc2o1MWR0OGFmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13Ih6cnoQc3p4c/giphy.gif" alt="Ice Bear" width="300"/>
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25rMGZocGRmMzd2M2ZtZjh3ZGRiZzQxbm93ZXZoc2o1MWR0OGFmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13Ih6cnoQc3p4c/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjY0dmIzc3ptd3FmOGpiaHRjZTdoNTZvazNjM3Jjam1idnFxbXN5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uZlxaF59yuAiOmCdz9/giphy.gif)" alt="Ice Bear" width="300"/>
 </p>
 
 ---
@@ -27,9 +27,7 @@ I am thrilled to be collaborating with a team of medical doctors to develop a **
 
 ### 🛠️ My Tech Stack & Skills
 
-Ini adalah versi yang sudah diperbarui dengan semua keahlian Anda.
-
-| Kategori | Teknologi & Keterampilan |
+| Category | Tech Stack and Skills |
 |---|---|
 | **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
 | **Web Dev** | ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |
