@@ -2,7 +2,7 @@
 <h3 align="center">A Medical Technology Student building bridges to a healthier future with code, hardware, and robotics.</h3>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25rMGZocGRmMzd2M2ZtZjh3ZGRiZzQxbm93ZXZoc2o1MWR0OGFmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13Ih6cnoQc3p4c/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjY0dmIzc3ptd3FmOGpiaHRjZTdoNTZvazNjM3Jjam1idnFxbXN5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uZlxaF59yuAiOmCdz9/giphy.gif)" alt="Ice Bear" width="300"/>
+  <iframe src="https://giphy.com/embed/uZlxaF59yuAiOmCdz9" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoonnetwork-cartoon-network-pan-we-baby-bears-uZlxaF59yuAiOmCdz9">via GIPHY</a></p>
 </p>
 
 ---
