@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Kahlil Gibran Al Zulmi 👋</h1>
-<h3 align="center">A Medical Technology Student building bridges to a healthier future with code, hardware, and robotics.</h3>
 
 <p align="center">
   <img src="https://github.com/kahlilzulmi/kahlilzulmi/blob/499be4fd6d9bc677e8c5c8700360baac8d465c76/gif.gif" alt="animated" />
@@ -9,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-🎓 I'm a full-time **Undergraduate Medical Technology Student** who is passionate about the world of software development.
+🎓 I'm a **Medical Technology Graduate at Institut Teknologi Sepuluh Nopember** who is passionate about the world of software development.
 
 💻 My passion lies in full-stack development, crafting beautiful frontend interfaces and robust backend systems that run as smoothly as silk.
 
