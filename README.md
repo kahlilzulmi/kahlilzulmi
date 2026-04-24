@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm Kahlil Gibran Al Zulmi 👋</h1>
+<h1 align="center">Kahlil Gibran Al Zulmi</h1>
+<p align="center">Research Assistant | Medical Technology Graduate | Software Engineer</p>
 
 <p align="center">
   <img src="https://github.com/kahlilzulmi/kahlilzulmi/blob/499be4fd6d9bc677e8c5c8700360baac8d465c76/gif.gif" alt="animated" />
@@ -6,43 +7,50 @@
 
 ---
 
-### 👨‍💻 About Me
+### Professional Profile
 
-🎓 I'm a **Medical Technology Graduate at Institut Teknologi Sepuluh Nopember** who is passionate about the world of software development.
+I am a **Medical Technology graduate from Sepuluh Nopember Institute of Technology (ITS)**, currently serving as a **Research Assistant** at a university research center. I specialize in bridging the gap between healthcare requirements and modern software engineering.
 
-💻 My passion lies in full-stack development, crafting beautiful frontend interfaces and robust backend systems that run as smoothly as silk.
+My work focuses on developing Hospital Information Systems (SIM RS) and medical applications that are accessible, performant, and data-driven.
 
-🤖 I love exploring the fascinating intersection of **software, hardware (IoT & Robotics), and data** to solve real-world medical problems.
-
-🌱 I’m currently diving deep into **C#**, **.NET**, robotics with **ROS Noetic**, and computer vision with **OpenCV**.
-
----
-
-### 🚀 What I'm Currently Working On
-
-I am thrilled to be collaborating with a team of medical doctors to develop a **web application dedicated to supporting expectant mothers**. Our goal is to provide essential information and tools to ensure a healthier journey through pregnancy.
+- **Current Research**: Developing eye-tracking technology and gaze analysis frameworks using Computer Vision.
+- **Development Philosophy**: Building modular, cross-device web solutions using Vite and Vue.js.
+- **Academic Goals**: Currently preparing for a Master’s degree with a focus on health-tech innovation.
 
 ---
 
-### 🛠️ My Tech Stack & Skills
+### Featured Project: Sorot (System for Optimized Region-of-Interest Tracker)
+**Sorot** is a web-based application designed for tracking and analyzing eye gaze data. It utilizes OpenCV and the Hough Circle Transform algorithm to provide precise visual data analysis.
+- **Frontend**: Vue.js, Vite, TypeScript.
+- **Backend/Core**: Python, OpenCV.
 
-| Category | Tech Stack and Skills |
+---
+
+### Tech Stack & Skills
+
+| Category | Tools & Technologies |
 |---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
-| **Web Dev** | ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |
-| **Robotics & Embedded** | ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=robot-operating-system&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) |
-| **Scientific Computing** | ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) |
-| **Operating Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
-| **Other Skills** | `Web & IoT Integration` `AI-Assisted Development` `Dual Booting` `Git` |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) |
+| **Frontend Dev** | ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) |
+| **Backend Dev** | ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white) |
+| **Scientific & Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) |
 
 ---
 
-### 📫 Let's Connect!
+### Outside of Coding
 
-I'm always excited to connect with new people. Feel free to reach out for collaborations, discussions about health-tech, or just to say hi!
+When I am not in front of a screen, I stay active and engaged through:
+- **Running**: Training for 5K and 10K distances.
+- **Calisthenics**: Focusing on functional strength and mobility.
+- **Education**: Private tutoring in Mathematics and Economics for elementary students.
+
+---
+
+### Let's Connect
+
+I am always open to collaborations in health-tech, web development, or medical technology research.
 
 <p align="left">
-<a href="https://lynk.id/kahlilzulmi" target="blank"><img align="center" src="https://img.shields.io/badge/My_Socials-34A853?style=for-the-badge&logo=google-chat&logoColor=white" alt="My Social Links"/></a>
+<a href="https://lynk.id/kahlilzulmi" target="blank"><img align="center" src="https://img.shields.io/badge/Professional_Links-24292e?style=for-the-badge&logo=github&logoColor=white" alt="My Social Links"/></a>
 </p>
-
----
