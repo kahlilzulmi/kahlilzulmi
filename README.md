@@ -9,7 +9,7 @@
 
 ### Professional Profile
 
-I am a **Medical Technology graduate from Sepuluh Nopember Institute of Technology (ITS)**, currently serving as a **Research Assistant** at a university research center. I specialize in bridging the gap between healthcare requirements and modern software engineering.
+I am a **Medical Technology graduate from Sepuluh Nopember Institute of Technology (ITS)**, currently serving as a **Research Assistant** at a university research center, **Artificial Intelligence and Digital Technology (KATD)**. I specialize in bridging the gap between healthcare requirements and modern software engineering.
 
 My work focuses on developing Hospital Information Systems (SIM RS) and medical applications that are accessible, performant, and data-driven.
 
@@ -43,7 +43,7 @@ My work focuses on developing Hospital Information Systems (SIM RS) and medical 
 When I am not in front of a screen, I stay active and engaged through:
 - **Running**: Training for 5K and 10K distances.
 - **Calisthenics**: Focusing on functional strength and mobility.
-- **Education**: Private tutoring in Mathematics and Economics for elementary students.
+- **Education**: Private tutoring in Mathematics for elementary students.
 
 ---
 
