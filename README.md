@@ -1,10 +1,6 @@
 <h1 align="center">Kahlil Gibran Al Zulmi</h1>
 <p align="center">Research Assistant | Medical Technology Graduate | Fullstack Engineer</p>
 
-<p align="center">
-  <img src="https://github.com/kahlilzulmi/kahlilzulmi/blob/499be4fd6d9bc677e8c5c8700360baac8d465c76/gif.gif" alt="animated" />
-</p>
-
 ---
 
 ### Professional Profile
