@@ -5,12 +5,12 @@
 
 ### Professional Profile
 
-I am a **Medical Technology graduate from Sepuluh Nopember Institute of Technology (ITS)**, currently serving as a **Research Assistant** at a university research center, **Artificial Intelligence and Digital Technology (KATD)**. I specialize in bridging the gap between healthcare requirements and modern software engineering.
+I am a **Medical Technology graduate from Institut Teknologi Sepuluh Nopember (ITS), Surabaya, Indonesia**, currently serving as a **Research Assistant** at a university research center, **Artificial Intelligence and Digital Technology (KATD)**. I specialize in bridging the gap between healthcare requirements and modern software engineering.
 
 My work focuses on developing Hospital Information Systems (SIM RS) and medical applications that are accessible, performant, and data-driven.
 
 - **Current Research**: Developing eye-tracking technology and gaze analysis frameworks using Computer Vision.
-- **Development Philosophy**: Building modular, cross-device web solutions using Vite and Vue.js.
+- **Development Philosophy**: Building modular, cross-device web solutions using Vite and Vue TypeScript.
 - **Academic Goals**: Currently preparing for a Master’s degree with a focus on health-tech innovation.
 
 ---
