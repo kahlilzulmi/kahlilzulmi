@@ -15,7 +15,7 @@ My work focuses on developing Hospital Information Systems (SIM RS) and medical 
 
 ---
 
-### Featured Project: Sorot (Stimulus Oriented Region-of-Interest Tracker)
+### Featured Project: Sorot (Stimulus Oriented Region-of-Interest Tool)
 **Sorot** is a web-based application designed for tracking and analyzing eye gaze data. It utilizes OpenCV and the Hough Circle Transform algorithm to provide precise visual data analysis.
 - **Frontend**: Vue.js, Vite, TypeScript.
 - **Backend/Core**: Python, OpenCV.
