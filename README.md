@@ -1,13 +1,10 @@
 <h1 align="center">Kahlil Gibran Al Zulmi</h1>
-<p align="center">Research Assistant | Medical Technology Graduate | Fullstack Engineer</p>
 
 ---
 
 ### Professional Profile
 
-I am a **Medical Technology graduate from Institut Teknologi Sepuluh Nopember (ITS), Surabaya, Indonesia**, currently serving as a **Research Assistant** at a university research center, **Artificial Intelligence and Digital Technology (KATD)**. I specialize in bridging the gap between healthcare requirements and modern software engineering.
-
-My work focuses on developing Hospital Information Systems (SIM RS) and medical applications that are accessible, performant, and data-driven.
+I am a **Medical Technology graduate from Institut Teknologi Sepuluh Nopember (ITS), Surabaya, Indonesia**, currently serving as a **Research Intern** at **Artificial Intelligence and Digital Technology (KATD), ITS**. I specialize in bridging the gap between healthcare requirements and modern software engineering.
 
 - **Current Research**: Developing eye-tracking technology and gaze analysis frameworks using Computer Vision.
 - **Development Philosophy**: Building modular, cross-device web solutions using Vite and Vue TypeScript.
@@ -15,8 +12,8 @@ My work focuses on developing Hospital Information Systems (SIM RS) and medical 
 
 ---
 
-### Featured Project: Sorot (Stimulus Oriented Region-of-Interest Tool)
-**Sorot** is a web-based application designed for tracking and analyzing eye gaze data. It utilizes OpenCV and the Hough Circle Transform algorithm to provide precise visual data analysis.
+### Featured Project: SOROT (Stimulus Oriented Region-of-Interest Tool)
+**SOROT** is a web-based application designed for tracking and analyzing eye gaze data. It utilizes OpenCV and the Hough Circle Transform algorithm to provide precise visual data analysis.
 - **Frontend**: Vue.js, Vite, TypeScript.
 - **Backend/Core**: Python, OpenCV.
 
