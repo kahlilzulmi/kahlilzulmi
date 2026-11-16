@@ -4,7 +4,7 @@
 
 ### Professional Profile
 
-I am a **Medical Technology graduate from Institut Teknologi Sepuluh Nopember (ITS), Surabaya, Indonesia**, currently serving as a **Research Intern** at **Artificial Intelligence and Digital Technology (KATD), ITS**. I specialize in bridging the gap between healthcare requirements and modern software engineering.
+I am a **Medical Technology graduate from Institut Teknologi Sepuluh Nopember (ITS), Surabaya, Indonesia**, currently serving as a **Research Intern** at **Artificial Intelligence and Digital Technology Research Center (Pusat Studi Kecerdasan Artifisial dan Teknologi Digital), ITS**. I specialize in bridging the gap between healthcare requirements and modern software engineering.
 
 - **Current Research**: Developing eye-tracking technology and gaze analysis frameworks using Computer Vision.
 - **Development Philosophy**: Building modular, cross-device web solutions using Vite and Vue TypeScript.
