@@ -21,10 +21,7 @@ I am a **Medical Technology graduate from Institut Teknologi Sepuluh Nopember (I
 
 ### Outside of Coding
 
-When I am not in front of a screen, I stay active and engaged through:
-- **Running**: Training for 5K and 10K distances.
-- **Calisthenics**: Focusing on functional strength and mobility.
-- **Education**: Private tutoring in Mathematics for elementary students.
+When I am not in front of a screen, I stay active and engaged through **running** and **calisthenics**. I also do a **private tutoring** in Mathematics for elementary students.
 
 ---
 
