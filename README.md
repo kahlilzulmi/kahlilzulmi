@@ -7,6 +7,8 @@
 I am a **Medical Technology graduate from Institut Teknologi Sepuluh Nopember (ITS), Surabaya, Indonesia**, currently serving as a **Research Intern** at **Artificial Intelligence and Digital Technology Research Center (Pusat Studi Kecerdasan Artifisial dan Teknologi Digital), ITS**. I specialize in bridging the gap between healthcare requirements and modern software engineering.
 
 - **Current Research**: Developing eye-tracking technology and gaze analysis frameworks using Computer Vision.
+- **CEO**: Hamilku.id, a maternal telemedicine platform.
+- **Publication**: First-authored and presented an accepted scoping review paper on AI-driven EEG-based motor imagery BCIs at ICITISEE 2026. 
 - **Development Philosophy**: Building modular, cross-device web solutions using Vite and Vue TypeScript.
 - **Academic Goals**: Currently preparing for a Master’s degree with a focus on health-tech innovation.
 
